@@ -5,7 +5,7 @@ const htmlroutes = require("./Routes/htmlroutes")
 
 const app = express()
 
-const port = process.env.port || 9001
+const port = process.env.port || 3000
 
 
 app.use(express.json())
