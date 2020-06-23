@@ -13,8 +13,8 @@ app.use(express.urlencoded({
     extended: true
 }));
 app.use(express.static("public"));
-app.use("./Routes/apiroutes", apiroutes )
-app.use("./Routes/htmlroutes", htmlroutes)
+app.use("/api", apiroutes )
+app.use("/", htmlroutes)
 app.listen(PORT, ()=> console.log(
     "Listening on Port" + PORT
 ))
