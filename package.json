@@ -6,8 +6,8 @@
   "scripts": {
     "start": "node server.js"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Violet Dreyfuss",
+  "license": "MIT",
   "dependencies": {
     "express": "^4.16.4",
     "uuid": "^3.4.0"
