@@ -10,4 +10,4 @@
 
 
 
-Violet Dreyfuss ©2020
+Violet Dreyfuss™ ©2020
